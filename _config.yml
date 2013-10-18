@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /free0056.github.io
+exclude: ["README.md"]
