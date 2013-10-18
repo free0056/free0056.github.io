@@ -69,6 +69,13 @@ html {
   font-size: 100%;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
+  background-color:#E7EBD1;
+  margin: 0;
+  padding: 0;
+  background-position:center center;
+  background-size: 50%;
+  font: normal 100%/1.5 sans-serif;
+  font-family: 'Monda', serif;
 }
 
 a:focus {
@@ -6164,4 +6171,18 @@ a.badge:focus {
 
 .affix {
   position: fixed;
+}
+
+.grid {
+  overflow: hidden;
+  border: 1px solid red;
+}
+
+.unit {
+  float: left;
+  width: 33.3333%;
+}
+
+.unit-spacer {
+  padding: 1em;
 }
