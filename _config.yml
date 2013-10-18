@@ -1,4 +1,4 @@
 markdown: redcarpet
-baseurl: /free0056.github.io
+baseurl: /free0056
 exclude: ["README.md"]
 permalink: pretty
